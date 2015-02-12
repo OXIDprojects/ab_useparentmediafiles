@@ -2,7 +2,7 @@ Alfred Bez :: use parent Media Files
 =============================
 [OXID eShop](https://github.com/OXID-eSales/oxideshop_ce/) module
 
-If a variant has no media files the media files from the parent article will be used
+If a variant has no media files, the media files from the parent article will be used.
 
 Download
 ------------
