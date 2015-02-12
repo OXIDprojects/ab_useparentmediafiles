@@ -1,5 +1,5 @@
 {
-    "name": "alfredbez/ab_useParentMediaFiles",
+    "name": "alfredbez/ab_useparentmediafiles",
     "type": "oxid-module",
     "description": "Wenn ein Variante eines Artikels keine eigenen Medien-Dateien hat, werden die des Elternartikels geladen",
     "require": {

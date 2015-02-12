@@ -12,28 +12,28 @@ There are several ways to download the module:
 first you need [composer](https://getcomposer.org/download/)
 
 add the module to your composer.json
- * via command line ```composer.phar require alfredbez/ab_useParentMediaFiles dev-master```
+ * via command line ```composer.phar require alfredbez/ab_useparentmediafiles dev-master```
  * OR
  * manually
 ```
 {
     "require": {
-        "alfredbez/ab_useParentMediaFiles": "dev-master"
+        "alfredbez/ab_useparentmediafiles": "dev-master"
     }
 }
 ```
 
 ### Download-Option 2: Download using git clone
-```git clone https://github.com/alfredbez/ab_useParentMediaFiles.git```
+```git clone https://github.com/alfredbez/ab_useparentmediafiles.git```
 
 ### Download-Option 3: Download ZIP
-[download](https://github.com/alfredbez/ab_useParentMediaFiles/archive/master.zip) and extract zip
+[download](https://github.com/alfredbez/ab_useparentmediafiles/archive/master.zip) and extract zip
 
 ----
 
 If you downloaded the module manually or via git:
- * rename the folder to 'ab_useParentMediaFiles' if the folder name is 'ab_useParentMediaFiles-master'
- * you have to move the folder 'ab_useParentMediaFiles' to your 'modules'-folder.
+ * rename the folder to 'ab_useparentmediafiles' if the folder name is 'ab_useparentmediafiles-master'
+ * you have to move the folder 'ab_useparentmediafiles' to your 'modules'-folder.
 
 ----
 
@@ -49,7 +49,7 @@ After uploading the module, your directory should look like this:
 ├── config.inc.php
 ├── ...
 └── modules
-    └── ab_useParentMediaFiles
+    └── ab_useparentmediafiles
         ├── README.md
         ├── metadata.php
         └── models

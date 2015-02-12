@@ -12,7 +12,7 @@
  * without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>
  */
-class ab_useParentMediaFiles extends ab_useParentMediaFiles_parent
+class ab_useparentmediafiles extends ab_useparentmediafiles_parent
 {
 
     /**
