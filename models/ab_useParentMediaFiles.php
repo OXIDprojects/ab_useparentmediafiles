@@ -21,6 +21,7 @@ class ab_useparentmediafiles extends ab_useparentmediafiles_parent
      * @return array
      */
     public function getMediaFiles() {
+        parent::getMediaFiles();
         if (!$this->_aMediaFiles) {
             $oProduct = $this->getProduct();
             if (($oParent = $this->_getParentProduct($oProduct->oxarticles__oxparentid->value))) {
